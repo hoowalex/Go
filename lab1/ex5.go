@@ -15,5 +15,5 @@ func main() {
 
 	//Задание.
 	//1. Определить разрядность ОС
-	fmt.Println("Архитектура ОС: ", runtime.GOARCH)
+	fmt.Println("Розрядність ОС: ", runtime.GOARCH) // Визначення розрядності ос
 }
